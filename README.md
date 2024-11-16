@@ -1,14 +1,13 @@
 # Realtime Candle Graph
 
-<img width="897" alt="Screen Shot 2024-11-16 at 01 20 13" src="https://github.com/user-attachments/assets/85129ed7-5fac-4ba6-8c45-33f14442e243">
+Just a demonstration of how to handle realtime data from websocket
 
+<img width="897" alt="Screen Shot 2024-11-16 at 01 20 13" src="https://github.com/user-attachments/assets/85129ed7-5fac-4ba6-8c45-33f14442e243">
 
 
 - **React** v18 - A JavaScript library for building user interfaces.
 - **Next.js** v14 - A framework that simplifies React development with built-in routing and server-side rendering.
 - **TypeScript** v5.5 - A typed version of JavaScript that helps improve code safety.
-- **Storybook** v8.2 - A tool for developing and testing UI components in isolation.
-- **Jest** v29 - A testing framework to ensure your code works as expected.
 
 ## Minimum requirements
 - **Node** v20 - [Node.js](https://nodejs.org/en) is a JavaScript runtime built on Chrome's V8 JavaScript engine.
