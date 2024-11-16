@@ -1,10 +1,8 @@
-# React 18 Next.js Template
+# Realtime Candle Graph
 
-This project serves as a starting point for building modern web applications using **React** and **Next.js**. It also incorporates **TypeScript** (a statically typed superset of JavaScript), **Storybook** for UI component development, and **Jest** for automated testing.
+<img width="897" alt="Screen Shot 2024-11-16 at 01 20 13" src="https://github.com/user-attachments/assets/85129ed7-5fac-4ba6-8c45-33f14442e243">
 
-If you are familiar with other programming languages but new to JavaScript, this guide will provide the necessary instructions to get started.
 
-## Tech Stack
 
 - **React** v18 - A JavaScript library for building user interfaces.
 - **Next.js** v14 - A framework that simplifies React development with built-in routing and server-side rendering.
